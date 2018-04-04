@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+}
+
+#img {
+    background-color: cornsilk;
+    margin: 50 300;
+    padding: 25 25;
+    text-align: center;
+}
+
+#bio {
+    font-family: Verdana;
+    font-size: 14px;
+    color: darkblue;
+    background-color: lemonchiffon;
+    margin: 50 300;
+    padding: 25 25;
+}
